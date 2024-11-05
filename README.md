@@ -76,7 +76,7 @@ The Ant's Revenge is a 2D action game where players control a character to fight
 - Constructor
 - Classes
 - Encapsulation
-- ~~Inheritance~~
+- Inheritance
 - Polymorphism
 - ~~Abstract classes~~
 

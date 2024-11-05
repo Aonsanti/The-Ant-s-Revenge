@@ -8,7 +8,7 @@ import java.awt.event.*;
 
 public class UpStat{
     // public static boolean UnlockDash_Unlock = false;
-    public static int Player_Point = 0;
+    public static int Player_Point = 100;
     public static int Player_Point_Health = 0;
     public static int Player_Point_Punch = 0;
     public static int Player_Point_Kick = 0;

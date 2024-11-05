@@ -105,7 +105,7 @@ public class SelectEnemy {
         buttonenemy1.setBounds(1100, 100, 350, 350);
         buttonenemy1.setBorder(BorderFactory.createLineBorder(Color.BLACK,2));
         buttonenemy1.setFocusable(false);
-        buttonenemy1.setEnabled(false);
+        buttonenemy1.setEnabled(true);
 
         textenemy1.setBackground(Color.WHITE);
         textenemy1.setHorizontalAlignment(JLabel.CENTER);
